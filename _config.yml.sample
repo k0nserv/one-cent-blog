@@ -1,0 +1,12 @@
+name: <name_of_site> 
+markdown: kramdown
+highligther: pygments
+timezone: <timezone>
+exclude: ['Gemfile', 'Gemfile.lock', '*.sublime-*', 'lib','vendor', 'Rakefile', 's3_website.yml']
+relative_permalinks: false
+url: <url>
+author: <author_name>
+gems:
+    - jekyll-feed
+sass:
+  style: compressed
