@@ -4,4 +4,4 @@ This is repository contains a small template for a Jekyll based blog with minima
 
 ## Getting started
 
-Read the blog post(link here)
+[Read the blog post](https://hugotunius.se/aws/cloudflare/web/2016/01/10/the-one-cent-blog.md-the-one-cent-blog.html)
