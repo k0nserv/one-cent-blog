@@ -1,0 +1,5 @@
+language: ruby
+branches:
+  only: master
+script: bundle exec rake deploy 
+cache: bundler
