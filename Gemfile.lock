@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.5.0)
-      public_suffix (~> 2.0, >= 2.0.2)
+    addressable (2.8.0)
+      public_suffix (>= 2.0.2, < 5.0)
     aws-sdk (2.6.28)
       aws-sdk-resources (= 2.6.28)
     aws-sdk-core (2.6.28)
@@ -47,7 +47,7 @@ GEM
     mercenary (0.3.6)
     pathutil (0.14.0)
       forwardable-extended (~> 2.6)
-    public_suffix (2.0.4)
+    public_suffix (4.0.6)
     rake (11.3.0)
     rb-fsevent (0.9.8)
     rb-inotify (0.9.7)
